@@ -1,0 +1,37 @@
+Name: Tobias Sy
+Project Name: [Something Nice]
+Due Date: April 31, 2024
+Project type/goal/purpose: To have a safe and annonymous place to spread kindness
+and be able to share own problems and find solutions with like-minded people 
+Work for: at least 6 hours a week
+
+Total Hours: 27
+Total Spec Hours: 7
+Total Dev Hours: 20
+
+What am I using: Firebase, html, javascript, css, MongoDB, XAMPP
+
+April 13 (Saturday): 2 hours, Research and initial database and serverless setup.
+Next goal: Work on front-end (different pages of the website), more research on setup
+
+April 17 (Wednesday): 5 Hours, Research, decided to change to mobile app. Setup necessary apps
+to be able to continue work.
+
+Decided to go back to website rout and created some template pages, as well as a rough about
+us page.
+Next Goal: Work on startup screen and login screen for app
+
+April 18 (Thursday): 5 Hours, Working on login, about us page design
+
+April 19 (Friday): 3 Hours, working on login
+
+May 1 (Wednesday): 7 Hours, Registration, Login, and profile page completed
+
+May 3 (Friday): 3 Hours, Cleaned up login and profile bugs, and created skeleton for 
+global chat
+
+May 7 (Tuesday): 2, Refined global chat made the iframe refresh every second, and made 
+it display the latest message Worked on matchmaking and matched chat
+
+
+
