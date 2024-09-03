@@ -14,6 +14,9 @@
   height: 400px;
 }
 
+
+
+
 /* this sets up the menu bar */
 .menu a {
   float: left;
@@ -303,6 +306,17 @@ body{
 
 /* End of Login window code*/
 
+
+/* .chatBox{
+  background-color:white;
+  width: 500px;
+} */
+
+/* .chat-footer .form-control{
+  width: 100%;
+} */
+
+
   .aboutbox{
     background-color: beige;
     text-align: center;
@@ -459,8 +473,12 @@ body{
     .update-profile form .flex .inputBox{
        width: 100%;
     }
- }
+    
 
+
+
+ }
+ 
 
 
 

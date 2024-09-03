@@ -40,6 +40,8 @@ if(isset($_POST['login'])){
    if(mysqli_num_rows($select) > 0){
       $row = mysqli_fetch_assoc($select);
       $_SESSION['user_id'] = $row['id'];
+	  $_SESSION['interest_1'] = $row['interest_1'];
+	  $_SESSION['interest_2'] = $row['interest_2'];
       header('location: profile.php');
    }else{
       $message[] = 'incorrect email or password!';

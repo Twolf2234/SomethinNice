@@ -5,9 +5,7 @@ Project type/goal/purpose: To have a safe and annonymous place to spread kindnes
 and be able to share own problems and find solutions with like-minded people 
 Work for: at least 6 hours a week
 
-Total Hours: 27
-Total Spec Hours: 7
-Total Dev Hours: 20
+Total Hours: 41
 
 What am I using: Firebase, html, javascript, css, MongoDB, XAMPP
 
@@ -30,8 +28,27 @@ May 1 (Wednesday): 7 Hours, Registration, Login, and profile page completed
 May 3 (Friday): 3 Hours, Cleaned up login and profile bugs, and created skeleton for 
 global chat
 
-May 7 (Tuesday): 2, Refined global chat made the iframe refresh every second, and made 
-it display the latest message Worked on matchmaking and matched chat
+May 7 (Tuesday): 5 Hours, Refined global chat made the iframe refresh every second, and made 
+it display the latest message. Worked on matchmaking and matched chat
 
+May 8 (Wednesday): 2 Hours,Working on queries without matchmaking. Made new data base for queries and
+linked them to the p_chat table through a new row called query_id.
 
+May 14 (Monday): 1 Hour, Work on queries list and display.
 
+May 15 (Tuesday): 2 Hours, queries actually change!!! so now the users can see the previous messages
+they have sent. Now I just need to make it possible to send messages, refresh after a new message is 
+sent, and actually start a query.
+
+May 17 (Thursday): 2 Hours, Messages can be sent. Trying AJAX to load database data onto website
+without reloading page. Will do the chat refresh later. Moving on to query creation.
+
+May 18 (Friday): 1 Hour, worked on matchmaking. Theoretically my code for creating the query
+will work, but getting a helper matched to it is what probably won't. Can't test yet cuz I am
+not done
+
+May 20 (Monday) 2 Hours: List of matches display as well as what interests they have. Query
+creation works. Just need to make the page reload only the messages whenever a new message
+comes in, blacklisting words, and design.
+
+May 21 (Tuesday) 1 Hour: Style and clean up.

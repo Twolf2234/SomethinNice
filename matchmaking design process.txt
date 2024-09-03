@@ -1,0 +1,16 @@
+When you land on the matchmaking page, it will ask you to fill a form if
+you have a problem, and will match you with a person with a helper role.
+The algorithm will go through the list of helper users, and pull aside those
+who have similar interests and within a similar age group. Then choose
+randomly within the group to be the match.
+
+The design of the page would then be 
+
+There will be 2 new columns on the table that displays their role and
+whether or not they are matched at the moment, which will take them
+out of the algorithm 
+
+If there are no similar interests or age groups, the user will be matched
+completely randomly
+
+Create a notification center for helpers to know if they have been matched

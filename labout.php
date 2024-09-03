@@ -28,7 +28,7 @@ if(isset($_GET['logout'])){
 <body style="width: 100%;">
 <nav class="menu">
   		<a href="home.php"><img src="images/Icon.png" width="55" height="55"></a>
-  		<a href="matchmaking.php" class="menumargin">Match Up</a>
+  		<a href="matchmaking.php" class="menumargin">Chats</a>
   		<a class="menumargin active"href="labout.php">About</a>
 	  	<a href="lcontact.php" class="menumargin">Contact</a>
 	  	<a href="profile.php"  style="float: right;">
@@ -79,7 +79,7 @@ joy.
 	</div>
 			
 	<div class="mebox">
-		<h1 style="font-size:50px;">Who is the clown behind it all?</h1>
+		<h1 style="font-size:50px;">Who is the guy behind it all?</h1>
 		<img style="height: 25%; width: 25%;" src="images/toby.jpg" alt="Toby">
 		</pre>
 		<p style="font-weight: bold;bold;font-size: 40px;">Lead Developer & Designer</p>

@@ -98,7 +98,7 @@ joy.
 	</div>
 			
 	<div class="mebox">
-		<h1 style="font-size:50px;">Who is the clown behind it all?</h1>
+		<h1 style="font-size:50px;">Who is the guy behind it all?</h1>
 		<img style="height: 25%; width: 25%;" src="images/toby.jpg" alt="Toby">
 		</pre>
 		<p style="font-weight: bold;bold;font-size: 40px;">Lead Developer & Designer</p>

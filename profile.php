@@ -28,7 +28,7 @@ if(isset($_GET['logout'])){
 <body style="width: 100%;">
 	<nav class="menu">
   		<a href="home.php"><img src="images/Icon.png" width="55" height="55"></a>
-  		<a href="matchmaking.php" class="menumargin">Match Up</a>
+  		<a href="matchmaking.php" class="menumargin">Chats</a>
   		<a class="menumargin"href="labout.php">About</a>
 	  	<a href="lcontact.php" class="menumargin">Contact</a>
 	  	<a href="profile.php" class="active" style="float: right;">
@@ -62,7 +62,7 @@ if(isset($_GET['logout'])){
             ?>
             <h3><?php echo $fetch['name']?></h3>
             <h4>Interests: <?php echo $fetch['interest_1']?>, <?php echo $fetch['interest_2']?></h4>
-            <h4>Age Range: <?php echo $fetch['age_range']?></h4>
+            <!-- <h4>Age Range: <?php echo $fetch['age_range']?></h4> -->
             <a href="update_profile.php" class="btn"> update profile</a>
             <a href="profile.php?logout=<?php echo $user_id; ?>" class="delete_btn" >logout</a>
             <p>new <a href="index.php">login</a> or <a href="index.php">register</a></p>

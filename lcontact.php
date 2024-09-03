@@ -31,7 +31,7 @@ if(isset($_GET['logout'])){
 <body style="width: 100%;">
 <nav class="menu">
   		<a href="home.php"><img src="images/Icon.png" width="55" height="55"></a>
-  		<a href="matchmaking.php" class="menumargin">Match Up</a>
+  		<a href="matchmaking.php" class="menumargin">Chats</a>
   		<a class="menumargin"href="labout.php">About</a>
 	  	<a href="lcontact.php" class="menumargin active">Contact</a>
 	  	<a href="profile.php"  style="float: right;">
